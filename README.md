@@ -1,6 +1,7 @@
 # Lattice Sieve in C
 This is a rewrite of [Orry Gooberman's Gaussian Sieve](https://github.com/orrygoob/Gauss-Sieve/blob/main/README.md) for lattice reduction. 
 
+I wrote about the implementation on [LeetArxiv](https://leetarxiv.substack.com/p/gauss-lll-sieve)
 Changes:
 1. C not C++.
 2. Big Integer support using GMP, MPFR and Flint.
